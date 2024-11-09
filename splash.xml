@@ -1,0 +1,7 @@
+<layout width="1920" height="1080" font="zekton rg.ttf" loadFontSize="32" fontColor="dedede">
+   <video src="video/demo_en.avi" height="1080" width="1920" alpha="1"/>   
+</layout>
+
+
+
+
