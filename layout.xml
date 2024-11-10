@@ -737,7 +737,7 @@
   </reloadableImage>  
   
   <!-- Menu 1 Scrolling Text -->
-  <reloadableScrollingText type="story" alpha="0" x="830" y="790" xOrigin="left" yOrigin="top" width="930" height="160" fontSize="35" direction="vertical" alignment="justified" scrollingSpeed="15" startPosition="0" startTime="4" endTime="1" layer="15">
+  <reloadableScrollingText type="story" alpha="0" x="1027" y="869" xOrigin="left" yOrigin="top" width="644" height="160" fontSize="35" direction="vertical" alignment="justified" scrollingSpeed="15" startPosition="0" startTime="4" endTime="1" layer="15">
     <onMenuEnter menuIndex="1">
       <set duration=".01">
         <animate type="alpha" to="1" algorithm="linear"/>
